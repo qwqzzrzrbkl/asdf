@@ -23,4 +23,4 @@
  *                神兽保佑
  *               代码无BUG!
  */
-echo "hello wold";
+echo 'hello wold';
